@@ -1,3 +1,12 @@
+# Current Stage(Ongoing): 
+
+Setting up the Amazon Sagemaker Notebook Instance
+
+# Current Blocker (To be Resolved by AWS Customer Support)
+
+Resource Limits exceeded on my AWS Personal Account
+
+
 # Overview
 You are provided with a CSV file `[download and unzip anomalies.zip]` available from this repository. You are expected to process the file and identify anomalies in the data set. 
 
@@ -28,14 +37,6 @@ I will be able to visualize the data to check for outliers which would mean the 
 * Amazon Glue Crawler
 * Amazon Sagemaker Notebook Instance
 * PyAthena
-
-# Current Stage(Ongoing): 
-
-Setting up the Notebook Instance
-
-# Current Blocker (To be Resolved by AWS Customer Support)
-
-Resource Limits exceeded on my AWS Personal Account
 
 
 
