@@ -13,3 +13,32 @@ Present your interpretation of the data and what it represents list the records 
 
 
 PS: Repo link https://github.com/saf-se-summit/anomaly-detection-challenge 
+
+# Solution
+
+Using the steps in guide here:
+
+https://aws.amazon.com/blogs/machine-learning/data-visualization-and-anomaly-detection-using-amazon-athena-and-pandas-from-amazon-sagemaker/
+
+I will able to visualize the data to check for outliers which would mean the anomalies in the data
+
+# AWS Resources Used
+* S3 Bucket
+* Amazon Glue Database
+* Amazon Glue Crawler
+* Amazon Sagemaker Notebook Instance
+* PyAthena
+
+# Current Stage(Ongoing): 
+
+Setting up the Notebook Instance
+
+# Current Blocker (To be Resolved by AWS Customer Support)
+
+Resource Limits exceeded on my AWS Personal Account
+
+
+
+
+
+
