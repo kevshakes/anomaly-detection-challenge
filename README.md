@@ -20,7 +20,7 @@ Using the steps in guide here:
 
 https://aws.amazon.com/blogs/machine-learning/data-visualization-and-anomaly-detection-using-amazon-athena-and-pandas-from-amazon-sagemaker/
 
-I will able to visualize the data to check for outliers which would mean the anomalies in the data
+I will be able to visualize the data to check for outliers which would mean the anomalies in the data
 
 # AWS Resources Used
 * S3 Bucket
